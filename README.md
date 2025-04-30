@@ -18,4 +18,4 @@ Each project is tailored to demonstrate specific analytical skills and business 
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🍫 [Chocolate Sales](X) | This project analyzes chocolate sales data across different countries, products, and sales representatives using Power BI.  | [Dashboard](images/PowerBI_ChocolateSales.jpg) |
+| 🍫 [Chocolate Sales](https://github.com/melisatuncay/Power-BI/blob/main/Chocolate-Sales.ipynb) | This project analyzes chocolate sales data across different countries, products, and sales representatives using Power BI.  | [Dashboard](https://github.com/melisatuncay/Power-BI/blob/main/PowerBI_ChocolateSales.jpg) |
